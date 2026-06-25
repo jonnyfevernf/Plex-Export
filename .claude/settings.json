@@ -1,0 +1,5 @@
+{
+  "env": {
+    "PLEX_URL": "http://localhost:32400"
+  }
+}
